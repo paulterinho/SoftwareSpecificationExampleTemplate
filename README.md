@@ -1,4 +1,4 @@
-# Software Specification Example Template
+# Software Requirement Specification (SRS) Example + Template
 
 Two documents are included: 
 - A SRS Template (Karl E. Wiegers: https://www.karlwiegers.com/)
