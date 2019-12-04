@@ -1,9 +1,9 @@
-# SoftwareSpecificationExampleTemplate
+# Software Specification Example Template
 
-Software Specification that includes High Level Description, Use Cases, User Roles, Entity Relationship Diagram, UML diagrams describing Specific interactions. 
+Two documents are included: 
+- A SRS Template (Karl E. Wiegers: https://www.karlwiegers.com/)
+- A real example of the usage of this template to derive software design.
 
-Though this a very old analysis, the actual structure of the document may prove useful to others looking to formalize their software process. 
+The example SRS includes High Level Description, Use Cases, User Roles, Entity Relationship Diagram, UML diagrams describing Specific interactions, UI Mock-ups and recommendations. 
 
-Original template (also included) from Karl E. Wiegers
-
-(Copyright © 2002 by Karl E. Wiegers. Permission is granted to use, modify, and distribute this document.)
+Though this a very old analysis, it may prove useful to others looking to formalize their software design processes. 
